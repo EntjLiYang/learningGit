@@ -1,3 +1,0 @@
-this is the book test to learning github.
-test the remote git.
-add file to the github.
